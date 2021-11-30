@@ -3,7 +3,7 @@ package Course;
 public class Lesson
 {
     private String beginTime;
-    private String endTime;
+    private String endTime; //
     private String date;
     private Course course;
 

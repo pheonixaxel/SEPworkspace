@@ -2,7 +2,7 @@ import Student.StudentList;
 
 import java.util.Objects;
 
-public class Class {
+public class Class { //
 
     private StudentList studentList;
     private char id;

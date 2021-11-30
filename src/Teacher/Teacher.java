@@ -3,7 +3,7 @@ package Teacher;
 public class Teacher
 {
 
-  private String initials;
+  private String initials; //
 
   public Teacher(String initials)
   {
